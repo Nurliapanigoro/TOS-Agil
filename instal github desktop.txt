@@ -5,3 +5,4 @@ Mengunduh dan menginstal GitHub Desktop
 - Setelah file di-unzip, klik dua kali GitHub Desktop.
 - Desktop GitHub akan diluncurkan setelah penginstalan selesai.
 - Aplikasi sudah bisa digunakan selama terhubung ke internet
+- Sebelum masuk ke aplikasi pastikan sudah memiliki akun Github
