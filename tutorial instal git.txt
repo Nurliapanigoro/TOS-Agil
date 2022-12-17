@@ -11,3 +11,4 @@ Cara Install Git di Windows
 - Tentukan Opsi ekstra
 - Mulai Proses Instalasi
 - Cek Versi Git
+- aplikasi bisa dijalankan
